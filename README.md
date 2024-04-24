@@ -1,16 +1,1 @@
-# newets
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="960" alt="snip" src="https://github.com/ibra-abdi-ibadihi/ETS-PPB-2024/assets/113155422/ff7b0f3d-18f7-4baa-b28e-331ea19fe40e">
